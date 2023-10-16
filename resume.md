@@ -1,0 +1,2 @@
+Name: Ami
+Education: Northeastern
